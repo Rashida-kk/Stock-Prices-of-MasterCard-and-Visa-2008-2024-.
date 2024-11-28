@@ -1,1 +1,2 @@
 # Stock-Prices-of-MasterCard-and-Visa-2008-2024-
+"Stock Prices of MasterCard and Visa (2008-2024)" is a machine learning project focused on analyzing historical stock price data of MasterCard and Visa over a 16-year period. The project explores trends, volatility, and relationships between the two companies' stocks using data visualization, statistical techniques, and predictive modeling. The goal is to derive actionable insights and build models to forecast future price movements, leveraging historical patterns and market indicators.
